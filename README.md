@@ -12,4 +12,4 @@ Please install preferably both `x86` and `x64` packages of the VC++ 2019 runtime
 - https://aka.ms/vs/16/release/vc_redist.x64.exe
 
 ### <d3dx9.h>
-install this -> https://www.microsoft.com/en-us/download/confirmation.aspx?id=6812
+- install this -> https://www.microsoft.com/en-us/download/confirmation.aspx?id=6812
