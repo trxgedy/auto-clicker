@@ -1,8 +1,13 @@
 # auto-clicker
 ![image](https://github.com/trxgedy/auto-clicker/assets/79763373/d2cd6630-8a18-45a0-b389-61ef8bba9124)
 
-**Credits**
-- window management by github.com/isntgituser
+# Getting started
+
+## Credits
+- window management by [isntgituser](https://github.com/isntgituser)
+
+## Download
+- Download at [releases section](https://github.com/trxgedy/auto-clicker/releases)
 
 ## Errors
 ### vcruntime140.dll and msvcp140.dll errors
