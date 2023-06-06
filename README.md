@@ -11,7 +11,7 @@
 
 ## 🔧Errors 
 ### 🔧 vcruntime140.dll and msvcp140.dll errors 
-That happens because you don't have the runtime and libraries required for this to run.  
+That happens because you dont have the runtime and libraries required for this to run.  
 Please install preferably both `x86` and `x64` packages of the VC++ 2019 runtime linked below.
 - https://aka.ms/vs/16/release/vc_redist.x86.exe
 - https://aka.ms/vs/16/release/vc_redist.x64.exe
