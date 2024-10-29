@@ -10,5 +10,6 @@
 Install these:
 - [Visual C++](https://learn.microsoft.com/pt-br/cpp/windows/latest-supported-vc-redist?view=msvc-170)
 - [DirectX SDK](https://www.microsoft.com/pt-br/download/details.aspx?id=6812)
+- Install freetype:x64-windows-static with [vcpkg](https://github.com/microsoft/vcpkg)
 - Install "C++ Modules for v143 build tools" component in the Visual Studio Installer
 - Compile in Release x64
