@@ -29,7 +29,7 @@ export namespace utils
 		char foreground_window_title[128];
 		GetWindowTextA( GetForegroundWindow( ), foreground_window_title, 128 );
 
-		return ( string::to_lower( foreground_window_title ).find( string::to_lower( win_title ) ) != std::string_view::npos );
+		return ( string::to_lower( foreground_window_title ).find( string::to_lower( win_title ) ) != std::string::npos );
 	}
 
 	int random_int( int min, int max)
