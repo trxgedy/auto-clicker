@@ -84,8 +84,6 @@ namespace keybind
 						{
 							bind = pair.first;
 							msg = pair.second;
-
-							std::cout  << std::hex  << i << " " << pair.first << "\n";
 						}
 					}
 				}
